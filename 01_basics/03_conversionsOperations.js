@@ -21,3 +21,19 @@ let isLoggedIn1 ="";
 let booleanIsLoggedIn1 = Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn1)
 // 1-> true,    0->false,   ""->false     "rabi"->true
+
+
+
+//*********************  Operations  ********************************* */
+
+let value =7
+let negetivevalues=-value
+console.log(negetivevalues)
+
+
+let str1 ="Hello"
+let str2 ="Rabi"
+let str3=str1+str2
+
+console.log("1"+2+2)
+console.log(1+2+"2")
