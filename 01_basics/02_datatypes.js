@@ -16,3 +16,9 @@ let isLoggedIn= false
 // object
 
 console.log(typeof age)
+
+
+// Primitive 
+// 7 types : String ,Number , Boolean , null, undefined , Symbols, BigInt
+// Non-Premitive (non primitive ) 
+//Array,Objects,Functions
